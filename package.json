@@ -1,5 +1,9 @@
 {
   "name": "darkdown-ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhruvdabhi101/darkdown-ts.git"
+  },
   "version": "1.0.0",
   "description": "Darkdown markup language implementation in tyepscript",
   "main": "index.js",
