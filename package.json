@@ -1,0 +1,15 @@
+{
+  "name": "darkdown-ts",
+  "version": "1.0.0",
+  "description": "Darkdown markup language implementation in tyepscript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "darkdown",
+    "markup"
+  ],
+  "author": "Dhruv Dabhi",
+  "license": "MIT"
+}
